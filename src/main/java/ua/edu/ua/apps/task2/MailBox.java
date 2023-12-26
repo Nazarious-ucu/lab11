@@ -1,4 +1,4 @@
-package ua.edu.ucu.apps.task2;
+package ua.edu.ua.apps.task2;
 
 import lombok.Getter;
 import lombok.Setter;

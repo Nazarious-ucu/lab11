@@ -1,4 +1,5 @@
-package ua.edu.ucu.apps.task1;
+package ua.edu.ua.apps.task1;
+
 
 import lombok.ToString;
 import lombok.experimental.SuperBuilder;

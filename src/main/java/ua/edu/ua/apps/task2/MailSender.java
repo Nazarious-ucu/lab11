@@ -1,4 +1,4 @@
-package ua.edu.ucu.apps.task2;
+package ua.edu.ua.apps.task2;
 
 import com.mailjet.client.ClientOptions;
 import com.mailjet.client.MailjetClient;
